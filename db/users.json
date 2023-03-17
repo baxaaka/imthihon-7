@@ -8,5 +8,10 @@
         "id": 2,
         "username": "2323",
         "password": "$2b$12$I46Fdluuoa4xwFxRL3ksvOMp25sYDII8asgPmdHvvfPYOM2Lmlvmi"
+    },
+    {
+        "id": 3,
+        "username": "baxa",
+        "password": "$2b$12$4.UUX4m/LB1psHNYBgKHeOlTsm0cl35RUIQK1UBp394VRqjYDoIAu"
     }
 ]
