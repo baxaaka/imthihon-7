@@ -1,0 +1,5 @@
+{
+    "Users": {
+        "dir": "./db/users.json"
+    }
+}
