@@ -1,7 +1,6 @@
 {
   "name": "book-shop",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node back.js ",
@@ -20,5 +19,15 @@
     "jsonwebtoken": "^9.0.0",
     "multer": "^1.4.5-lts.1",
     "uuid": "^9.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baxaaka/imthihon-7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baxaaka/imthihon-7/issues"
+  },
+  "homepage": "https://github.com/baxaaka/imthihon-7#readme",
+  "description": ""
 }
